@@ -1,8 +1,0 @@
-[datalad "dataset"]
-	id = bbabc098-c491-485b-9a73-f2e9f06b1c00
-[datalad "containers.bids-mriqc"]
-	image = code/containers/images/bids/bids-mriqc--24.0.2.sif
-	cmdexec = {img_dspath}/code/containers/scripts/singularity_cmd exec {img} {cmd}
-[datalad "containers.bids-mriqc-clf"]
-	image = code/containers/images/bids/bids-mriqc--0.15.1.sing
-	cmdexec = {img_dspath}/code/containers/scripts/singularity_cmd exec {img} {cmd}
