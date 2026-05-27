@@ -1,0 +1,10 @@
+[submodule "code/containers"]
+	path = code/containers
+	url = https://github.com/ReproNim/containers.git
+	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
+	datalad-url = https://github.com/ReproNim/containers.git
+[submodule "sourcedata/raw"]
+	path = sourcedata/raw
+	url = https://github.com/OpenNeuroDatasets/ds006193.git
+	datalad-id = c46a6272-ac15-4aa6-aff7-b9753d30e9c8
+	datalad-url = https://github.com/OpenNeuroDatasets/ds006193.git
